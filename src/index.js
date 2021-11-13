@@ -7,8 +7,6 @@ import imgUrl from '../src/bc.png'
 
 
 function App() {
-
-
     const show=()=>{
 
         let img1 = new Image(); // Image 构造器
